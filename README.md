@@ -1,1 +1,3 @@
-# Exercise-Word-Guessing-Game
+Welcome to my word guessing game :)
+Remember to download the WordsForGame.txt file and change directories in your terminal to play!
+Have fun and let me know of any bugs...
